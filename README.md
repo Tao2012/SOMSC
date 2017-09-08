@@ -10,7 +10,7 @@ Any suggestions on the package are welcome! For suggestions and comments on the 
 
 ### Setup and quick start
 
-This package is developed on MATLAB. Please run startup.m first to set up the working directory. There are four datasets included in the SOMSC manuscript. You could run the following four demos to get all figures in the manuscript. 
+This package is developed on MATLAB and all source codes are in the directory 'sourcecode'. Please run *startup.m* first to set up the working directory. There are four datasets included in the SOMSC manuscript. You could run the following four demos to get all figures in the manuscript. 
 
 - demo_simulation
 - demo_embryo
