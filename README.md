@@ -10,7 +10,7 @@ Any suggestions on the package are welcome! For suggestions and comments on the 
 
 ### Setup and quick start
 
-This package is developed on MATLAB and all source codes are in the directory 'sourcecode'. Please run *startup.m* first to set up the working directory. There are four datasets included in the SOMSC manuscript. You could run the following four demos to get all figures in the manuscript. 
+This package is developed on MATLAB and all source codes are in the directory 'sourcecode'. Please run **startup.m** first to set up the working directory. Four datasets are involved in the SOMSC manuscript. You could run the following four demos to obtain all figures in the manuscript. 
 
 - demo_simulation
 - demo_embryo
@@ -19,7 +19,7 @@ This package is developed on MATLAB and all source codes are in the directory 's
 
 ### Reference
 
-[Tao Peng, and Qing Nie. "SOMSC: Self-Organization-Map for High-Dimensional Single-Cell Data of Cellular States and Their Transitions." bioRxiv (2017): 124693](http://www.biorxiv.org/content/early/2017/08/24/124693)
+Tao Peng, and Qing Nie. "SOMSC: Self-Organization-Map for High-Dimensional Single-Cell Data of Cellular States and Their Transitions." bioRxiv (2017): 124693 [Reference link](http://www.biorxiv.org/content/early/2017/08/24/124693)
 
 
 
