@@ -22,8 +22,8 @@ end
 
 somsc_chart(dataSource,Ngrid,DataFolder)
 SOMSC_lineage(DataFolder,2,0.01,3)
-
 load([DataFolder,'/PseudoTime_',DataFolder])
 load('hsc_2016full.mat')
+drivenGene(cellIdentity,lineage,Olsson2016,DataFolder)
 [cell_time, cell_percent] = pseudoTime(cellIdentity,sData,lineage);
 plotPseudoTime(map,path,cell_time,1899, DataFolder, 0.01,Olsson2016,22)

@@ -27,5 +27,6 @@ somsc_chart(dataSource,Ngrid,DataFolder)
 SOMSC_lineage(DataFolder,10,0.005,3)
 load([DataFolder,'/PseudoTime_',DataFolder])
 load('olfactory_2017full.mat')
+drivenGene(cellIdentity,lineage,olfactory2017full,DataFolder)
 [cell_time, cell_percent] = pseudoTime(cellIdentity,sData,lineage);
 plotPseudoTime(map,path,cell_time,16920,DataFolder, 0.01,olfactory2017full,20)
