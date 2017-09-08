@@ -19,7 +19,7 @@ This package is developed on MATLAB and all source codes are in the directory 's
 
 ### Reference
 
-Tao Peng, and Qing Nie. "SOMSC: Self-Organization-Map for High-Dimensional Single-Cell Data of Cellular States and Their Transitions." bioRxiv (2017): 124693 [Reference link](http://www.biorxiv.org/content/early/2017/08/24/124693)
+Tao Peng, and Qing Nie. "SOMSC: Self-Organization-Map for High-Dimensional Single-Cell Data of Cellular States and Their Transitions." bioRxiv (2017): 124693 [[Reference link]](http://www.biorxiv.org/content/early/2017/08/24/124693)
 
 
 
